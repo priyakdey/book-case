@@ -1,7 +1,9 @@
 # BookCase
 
 This is a part of an exercise for a [Full Stack Development Challenge](https://github.com/infoxchange/full-stack-developer-challenge).
-This implementation is purely for educational and experimental purpose. 
+
+>[!NOTE]
+> This implementation is purely for educational and experimental purpose. 
 
 
 This is a small web application for managing a list of books.
