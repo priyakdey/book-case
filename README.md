@@ -1,14 +1,13 @@
 # BookCase
 
-This is a part of an exercise for a [Full Stack Development Challenge](https://github.com/infoxchange/full-stack-developer-challenge).
-
->[!NOTE]
-> This implementation is purely for educational and experimental purpose. 
-
-
 This is a small web application for managing a list of books.
 Each book will have an **ISBN**, **name** and **author**.
 Each author will be having a **first name** and **last name**.
+
+>[!NOTE]
+> _This implementation is purely for educational and experimental purpose._ 
+
+This is a part of an exercise for a [Full Stack Development Challenge](https://github.com/infoxchange/full-stack-developer-challenge).
 
 ### Backend Implementation
 
